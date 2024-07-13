@@ -1,43 +1,43 @@
 ---
 # Display name
-title: 吳健雄
+title: 孔文苑
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 'Wenyuan KONG'
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wen Yuan 
+last_name: Kong
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+# role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+# organizations:
+#   - name: GenCoin
+#     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+# profiles:
+#   - icon: at-symbol
+#     url: 'mailto:kongwenyuan@pku.edu.cn'
+#     label: E-mail Me
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/github
+  #   url: https://github.com/gcushen
+  # - icon: brands/linkedin
+  #   url: https://www.linkedin.com/
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
