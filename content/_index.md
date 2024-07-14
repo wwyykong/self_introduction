@@ -33,10 +33,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: internship
-    content:
-      title: Internship Experience
-      username: admin
+  # - block: internship
+  #   content:
+  #     title: Internship Experience
+  #     username: admin
   - block: skills
     content:
       title: Skills & Hobbies
