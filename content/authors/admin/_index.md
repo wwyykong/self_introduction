@@ -93,15 +93,15 @@ skills:
       - name: C# 
         description: ''
         percent: 75
-        icon: devicon/Csharp
+        # icon: devicon/Csharp
       - name: C++ 
         description: ''
         percent: 75
-        icon: devicon/Cplus
+        # icon: devicon/Cplus
       - name: Java
         description: ''
         percent: 60
-        icon: devicon/Java
+        # icon: devicon/Java
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -109,7 +109,7 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: person-simple-walk
+        # icon: person-simple-walk
       # - name: Cats
       #   description: ''
       #   percent: 100
