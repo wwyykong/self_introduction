@@ -95,18 +95,24 @@ skills:
         icon: devicon/Csharp
       - name: C++ 
         description: ''
+        percent: 75
+        icon: devicon/Cplus
+      - name: Java
+        description: ''
+        percent: 60
+        icon: devicon/Java
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Piano
         description: ''
         percent: 100
-        icon: cat
+        icon: person-simple-walk
+      # - name: Cats
+      #   description: ''
+      #   percent: 100
+      #   icon: cat
       - name: Photography
         description: ''
         percent: 80
@@ -114,11 +120,11 @@ skills:
 
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Chinese
+    percent: 100
+  # - name: Portuguese
+  #   percent: 25
 
 # # Awards.
 # #   Add/remove as many awards below as you like.
