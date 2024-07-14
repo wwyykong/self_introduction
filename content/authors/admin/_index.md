@@ -67,7 +67,7 @@ education:
       - Yu Gang and Song Xiao Scholarship (1/81) (the highest scholarship for sophomore GISers)
       - Lei Jun Scholarship (1/81) (the highest scholarship for junior GISers)
 
-internship:
+experience:
   - position: Fulltime intern
     company_name: Microsoft Research Asia (MSRA)
     group_name: Big Data Mining Group
