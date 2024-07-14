@@ -47,21 +47,21 @@ organizations:
 education:
   - area: Master of Science, Major in Cartology and GIS
     institution: Peking University
-    date_start: '2019-09'
-    date_end: '2022-06'
+    date_start: 2019-9-1
+    date_end: 2022-6-1
     summary: |
-      GPA: '3.77/4.0'
-      GPA Ranking: '1/79'
+      GPA: 3.77/4.0
+      GPA Ranking: 1/79
       Honers and Awards:
       - Postgraduate Scholarship
       - Award for Scientific Research
   - area: Bachelor of Science, Major in Geographic Information Science
     institution: Wuhan University
-    date_start: '2015-09'
-    date_end: '2019-06'
+    date_start: 2015-9-1
+    date_end: 2019-6-1
     summary: |
-      GPA: '3.94/4.0'
-      GPA Ranking: '1/79'
+      GPA: 3.94/4.0
+      GPA Ranking: 1/79
       Honers and Awards:
       - National Scholarship (3/81) (the highest scholarship for undergraduate student)
       - Yu Gang and Song Xiao Scholarship (1/81) (the highest scholarship for sophomore GISers)
@@ -72,8 +72,8 @@ experience:
     company_name: Microsoft Research Asia (MSRA)
     group_name: Big Data Mining Group
     company_logo: ''
-    date_start: '2020-07'
-    date_end: '2021-09'
+    date_start: 2020-7-1
+    date_end: 2021-9-1
     summary: |2-
       Responsibilities include:
       - Proposed an approach to refine aesthetics of given graphic designs
