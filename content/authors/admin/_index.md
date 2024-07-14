@@ -56,7 +56,7 @@ education:
       - Postgraduate Scholarship
       - Award for Scientific Research
   - area: Bachelor of Science, Major in Geographic Information Science
-    institution:Wuhan University
+    institution: Wuhan University
     date_start: '2015-09'
     date_end: '2019-06'
     summary: |
