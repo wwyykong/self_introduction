@@ -37,9 +37,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
+  - block: internship
     content:
-      title: Awards
+      title: Internship Experience
       username: admin
   - block: languages
     content:
