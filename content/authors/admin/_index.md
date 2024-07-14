@@ -3,7 +3,7 @@
 title: 孔文苑
 
 # Name pronunciation (optional)
-name_pronunciation: 'Wenyuan KONG'
+name_pronunciation: Wenyuan Kong
 
 # Full name (for SEO)
 first_name: Wen Yuan 
@@ -19,11 +19,15 @@ superuser: true
 
 # Role/position/tagline
 # role: Director of Cloud Infrastructure
+role: ''
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
 #   - name: GenCoin
 #     url: https://www.example.com/
+organizations:
+  - name: ''
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -43,24 +47,22 @@ superuser: true
 education:
   - area: Master of Science, Major in Cartology and GIS
     institution: Peking University
-    date_start: 2019-09
-    date_end: 2022-06
+    date_start: '2019-09'
+    date_end: '2022-06'
     summary: |
-      GPA: 3.77/4.0
-      GPA Ranking: 1/79
-
+      GPA: '3.77/4.0'
+      GPA Ranking: '1/79'
       Honers and Awards:
       - Postgraduate Scholarship
       - Award for Scientific Research
   - area: Bachelor of Science, Major in Geographic Information Science
     institution:Wuhan University
-    date_start: 2015-09
-    date_end: 2019-06
+    date_start: '2015-09'
+    date_end: '2019-06'
     summary: |
-      GPA: 3.94/4.0
-      GPA Ranking: 1/79
-      
-       Honers and Awards:
+      GPA: '3.94/4.0'
+      GPA Ranking: '1/79'
+      Honers and Awards:
       - National Scholarship (3/81) (the highest scholarship for undergraduate student)
       - Yu Gang and Song Xiao Scholarship (1/81) (the highest scholarship for sophomore GISers)
       - Lei Jun Scholarship (1/81) (the highest scholarship for junior GISers)
@@ -70,8 +72,8 @@ internship:
     company_name: Microsoft Research Asia (MSRA)
     group_name: Big Data Mining Group
     company_logo: ''
-    date_start: 2020-07
-    date_end: 2021-09
+    date_start: '2020-07'
+    date_end: '2021-09'
     summary: |2-
       Responsibilities include:
       - Proposed an approach to refine aesthetics of given graphic designs
