@@ -96,7 +96,7 @@ skills:
       - name: C# 
         description: ''
         percent: 75
-        icon: devicon/pytorch
+        icon: devicon/C_sharp
       - name: C++ 
         description: ''
         percent: 75
