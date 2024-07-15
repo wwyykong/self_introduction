@@ -96,15 +96,15 @@ skills:
       - name: C# 
         description: ''
         percent: 75
-        icon: devicon/C_sharp
+        icon: devicon/csharp
       - name: C++ 
         description: ''
         percent: 75
-        icon: devicon/pytorch
+        icon: devicon/cplusplus
       - name: Java
         description: ''
         percent: 60
-        icon: devicon/pytorch
+        icon: devicon/java
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
