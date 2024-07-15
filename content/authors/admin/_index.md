@@ -51,17 +51,19 @@ education:
     date_end: 2022-06-01
     summary: |
       GPA: 3.77/4.0
+
       GPA Ranking: 1/79
 
       Honers and Awards:
       - Postgraduate Scholarship
       - Award for Scientific Research
-  - area: Bachelor of Science, Major in Geographic Information Science
+  - area: Bachelor of Science, Major in Geographic Information Science, Minor in Finance
     institution: Wuhan University
     date_start: 2015-09-01
     date_end: 2019-06-01
     summary: |
       GPA: 3.94/4.0
+
       GPA Ranking: 1/79
       
       Honers and Awards:
@@ -146,9 +148,9 @@ awards:
       - Proposed a local computing scheme by which the time of broadcasting data can be saved thus improved computational efficiency by about 50%
   - title: Analysis of Parking Patterns
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    # date: '2022-04-01'
-    date_start: 2019-08-01
-    date_end: 2020-08-01
+    date: '2020-08-01'
+    # date_start: 2019-08-01
+    # date_end: 2020-08-01
     # awarder: Coursera
     # icon: coursera
     summary: |
@@ -156,8 +158,9 @@ awards:
       - Designed an Android App to video while recording the location information of parked cars and leveraged an OCR algorithm to identify license plates from video frames to match it with the GPS
       - Classified parking spots and cars to identify the parking patterns, and proposed management suggestions based on the findings
   - title: Interpret Population Density in Wuhan Using UAV Images and Night-time Lights
-    date_start: 2017-10-01
-    date_end: 2018-10-01
+    date: '2018-10-01'
+    # date_start: 2017-10-01
+    # date_end: 2018-10-01
     # awarder: Coursera
     # icon: coursera
     summary: |
