@@ -32,18 +32,14 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  # - block: internship
-  #   content:
-  #     title: Internship Experience
-  #     username: admin
+      is_education_first: true
   - block: skills
     content:
       title: Skills & Hobbies
       username: admin
   - block: awards
     content:
-      title: Awards
+      title: Research Experiences
       username: admin
   - block: languages
     content:
