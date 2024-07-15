@@ -45,7 +45,7 @@ organizations:
   #   url: https://www.instagram.com/
 
 education:
-  - area: Master of Science, Major in Cartology and GIS
+  - area: Master of Science (Cartology and GIS)
     institution: Peking University
     # major: Cartology and GIS
     date_start: 2019-09-01
@@ -56,7 +56,7 @@ education:
       Honers and Awards:
       - Postgraduate Scholarship
       - Award for Scientific Research
-  - area: Bachelor of Science, Major in Geographic Information Science
+  - area: Bachelor of Science (Geographic Information Science)
     institution: Wuhan University
     # major: Geographic Information Science
     # minor: Finance
