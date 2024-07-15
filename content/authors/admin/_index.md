@@ -144,6 +144,27 @@ awards:
       - Achieved to subdivide and aggregate the computing dataset to reuse the RDD (Resilient Distributed Datasets) efficiently
       - Assigned the unique identification to data on a global scale to retrieve data accurately and 20 times faster
       - Proposed a local computing scheme by which the time of broadcasting data can be saved thus improved computational efficiency by about 50%
+  - title: Analysis of Parking Patterns
+    # url: https://www.coursera.org/learn/neural-networks-deep-learning
+    # date: '2022-04-01'
+    date_start: 2019-08-01
+    date_end: 2020-08-01
+    # awarder: Coursera
+    # icon: coursera
+    summary: |
+      - Filled in the research gap of parking situation in Chinese Danwei by a case study of the Information Campus of Wuhan University
+      - Designed an Android App to video while recording the location information of parked cars and leveraged an OCR algorithm to identify license plates from video frames to match it with the GPS
+      - Classified parking spots and cars to identify the parking patterns, and proposed management suggestions based on the findings
+  - title: Interpret Population Density in Wuhan Using UAV Images and Night-time Lights
+    date_start: 2017-10-01
+    date_end: 2018-10-01
+    # awarder: Coursera
+    # icon: coursera
+    summary: |
+      - Testified the hypothesis that the panoramic images of night-time light captured by UAV (unmanned aerial vehicle) work well in estimating population density (R-square = 0.81), and the combination of multi-angular night-time remote-sensing data sources works even better (R-square = 0.93)
+      - Conducted the research as a team leader by which the ability of cooperation and leadership was proved
+      - Defogged UAV images to alleviate the influence of weather conditions, thus avoided collecting data repeatedly
+      - Proposed reasonable variables to represent information contained in UAV image
 #   - title: Blockchain Fundamentals
 #     # url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
 #     date: '2023-07-01'
@@ -166,4 +187,4 @@ awards:
 
 ---
 
-<!-- I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization. -->
+I am interested in interdisciplinary studies, particularly those that integrate big data, artificial intelligence, and urban issues.
