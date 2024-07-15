@@ -52,6 +52,7 @@ education:
     summary: |
       GPA: 3.77/4.0
       GPA Ranking: 1/79
+
       Honers and Awards:
       - Postgraduate Scholarship
       - Award for Scientific Research
@@ -62,12 +63,12 @@ education:
     summary: |
       GPA: 3.94/4.0
       GPA Ranking: 1/79
+      
       Honers and Awards:
       - National Scholarship (3/81) (the highest scholarship for undergraduate student)
       - Yu Gang and Song Xiao Scholarship (1/81) (the highest scholarship for sophomore GISers)
       - Lei Jun Scholarship (1/81) (the highest scholarship for junior GISers)
-
-experience:
+work:
   - position: Fulltime intern
     company_name: Microsoft Research Asia (MSRA)
     group_name: Big Data Mining Group
@@ -161,4 +162,4 @@ awards:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+<!-- I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization. -->
