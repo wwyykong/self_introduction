@@ -112,7 +112,7 @@ skills:
       - name: Piano
         description: ''
         percent: 100
-        icon: hero/musical-note
+        icon: custom/music
       # - name: Cats
       #   description: ''
       #   percent: 100
