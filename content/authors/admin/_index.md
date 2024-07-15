@@ -70,7 +70,7 @@ education:
       - Yu Gang and Song Xiao Scholarship (1/81) (the highest scholarship for sophomore GISers)
       - Lei Jun Scholarship (1/81) (the highest scholarship for junior GISers)
 work:
-  - position: Fulltime intern
+  - position: Fulltime Intern
     company_name: Microsoft Research Asia (MSRA)
     group_name: Big Data Mining Group
     company_logo: ''
@@ -88,7 +88,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 85
+        percent: 90
         icon: devicon/python
       # - name: PyTorch
       #   description: ''
@@ -96,11 +96,11 @@ skills:
       #   icon: devicon/pytorch
       - name: C# 
         description: ''
-        percent: 75
+        percent: 85
         icon: devicon/csharp
       - name: C++ 
         description: ''
-        percent: 75
+        percent: 80
         icon: devicon/cplusplus
       - name: Java
         description: ''
@@ -124,10 +124,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 75
   - name: Chinese
     percent: 100
+  - name: English
+    percent: 75
   # - name: Portuguese
   #   percent: 25
 
