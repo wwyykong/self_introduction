@@ -45,26 +45,25 @@ organizations:
   #   url: https://www.instagram.com/
 
 education:
-  - area: Master of Science, Major in Cartology and GIS
+  - area: Master of Science
     institution: Peking University
+    major: Cartology and GIS
     date_start: 2019-09-01
     date_end: 2022-06-01
     summary: |
       GPA: 3.77/4.0
 
-      GPA Ranking: 1/79
-
       Honers and Awards:
       - Postgraduate Scholarship
       - Award for Scientific Research
-  - area: Bachelor of Science, Major in Geographic Information Science, Minor in Finance
+  - area: Bachelor of Science
     institution: Wuhan University
+    major: Geographic Information Science
+    minor: Finance
     date_start: 2015-09-01
     date_end: 2019-06-01
     summary: |
       GPA: 3.94/4.0
-
-      GPA Ranking: 1/79
       
       Honers and Awards:
       - National Scholarship (3/81) (the highest scholarship for undergraduate student)
